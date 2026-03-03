@@ -1,6 +1,6 @@
 export const Header = () => {
   return (
-    <div className="">
+    <div className="bg-gray-50">
       <div className="flex flex-col">
         <div>
           <img className="w-15 h-15" src="pinecone.svg" alt="" />
